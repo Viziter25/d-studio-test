@@ -1,7 +1,6 @@
 {
   "name": "d-studio-test",
   "version": "0.1.0",
-  "homepage": "https://Viziter25.github.io/d-studio-test",
   "private": true,
   "dependencies": {
     "@tanstack/react-query": "^5.59.16",

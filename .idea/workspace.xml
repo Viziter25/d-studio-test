@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e963b2b5-fcbf-484f-802e-ae7f8137a211" name="Changes" comment="fix: gh-pages">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.61ba5aa3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.61ba5aa3.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/453.b9bdb7ce.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/453.b9bdb7ce.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.75dcf06b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.75dcf06b.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.75dcf06b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/alertCircle-icon.7978bd1cc3bbfcd7bacf9e542dcc107d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/eye-icon.d48016faf2a0ee2aa945fb1e4940fc6a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/eyeOff-icon.f0074a5691c514a91bfbbf08ab2fac06.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nr5k65cCK0HaQtyZCb0RWLiD55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "E:\\TestWork\\d-studio-test\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\TestWork\d-studio-test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="fix: gh-pages">
+      <created>1729718284491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729718284491</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e963b2b5-fcbf-484f-802e-ae7f8137a211" name="Changes" comment="fix: gh-pages" />
+      <created>1729718497986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729718497986</updated>
+      <workItem from="1729718499966" duration="386000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: gh-pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: gh-pages" />
+  </component>
+</project>
