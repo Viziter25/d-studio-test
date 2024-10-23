@@ -1,0 +1,57 @@
+.root {
+  max-width: 350px;
+  width: 100%;
+
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 16px;
+  background-color: #f9f9f9;
+}
+
+.title {
+  width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  margin: 0 0 8px;
+  font-size: 1.5em;
+}
+
+.description {
+  width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  margin: 0 0 8px;
+  color: #555;
+}
+
+.status {
+  margin: 0;
+  font-weight: bold;
+}
+
+.dueDate {
+  margin: 8px 0;
+  color: red;
+}
+
+.date {
+  margin: 0;
+  font-size: 0.9em;
+  color: #777;
+}
+
+.wrapperBtn {
+  display: flex;
+  gap: 12px;
+
+  padding-top: 16px;
+}
+
+.portalWrapper {
+  align-items: center;
+  justify-content: center;
+}

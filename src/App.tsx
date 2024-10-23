@@ -1,25 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Route, Routes } from "react-router";
+import { MainPage } from "./pages/MainPage";
+import { PATHS } from "./constants/PATHS";
+import { PrivateRoute } from "./utils/privateRoute/privateRoute";
+import { LoginPage } from "./pages/LoginPage";
+import { SingUpPage } from "./pages/SingUpPage";
+import { CreateTaskPage } from "./pages/CreateTaskPage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+        <Route path={PATHS.LOGIN} element={<LoginPage />} />
+        <Route path={PATHS.SIGN_UP} element={<SingUpPage />} />
+        <Route path={PATHS.BASE_PATH} element={<PrivateRoute />}>
+          <Route index element={<MainPage />} />
+          <Route path={PATHS.CREATE_TASK} element={<CreateTaskPage />} />
+          <Route path={PATHS.UPDATE_TASK} element={<CreateTaskPage />} />
+        </Route>
+      </Routes>
+    </>
   );
 }
 
